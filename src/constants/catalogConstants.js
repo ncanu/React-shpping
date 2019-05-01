@@ -1,0 +1,7 @@
+const catalogConstants = {
+    GET_PRDOUCTS_LIST: 'GET_PRODUCTS_LIST',
+    GET_PRDOUCTS_LIST_SUCCESS: 'GET_PRODUCTS_LIST_SUCCESS',
+    GET_PRDOUCTS_LIST_ERROR: 'GET_PRODUCTS_LIST_ERROR'
+};
+
+export default catalogConstants;
